@@ -37,7 +37,8 @@
   "packageManager": "pnpm@10.11.0",
   "dependencies": {
     "@types/d3-delaunay": "^6.0.4",
-    "d3-delaunay": "^6.0.4"
+    "d3-delaunay": "^6.0.4",
+    "tslib": "^2.8.1"
   },
   "devDependencies": {
     "@arethetypeswrong/cli": "^0.18.1",
